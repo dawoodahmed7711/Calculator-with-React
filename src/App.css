@@ -1,0 +1,120 @@
+body {
+  background-color:blueviolet;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  border-radius: 8px;
+  margin-top: 150px;
+  margin-left: 350px;
+  
+
+}
+
+.que1  {
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-left: 25px;
+ 
+}
+.que1 button {
+  height: 45px;
+  width: 45px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 7px;
+  font-size: 20px;
+}
+.que2  {
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+.que2 button {
+  height: 45px;
+  width: 45px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 7px;
+  font-size: 20px;
+}
+.que3  {
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+.que3 button {
+  height: 45px;
+  width: 45px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 7px;
+  font-size: 20px;
+}
+.que4  {
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+.que4 button {
+  height: 45px;
+  width: 45px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 7px;
+  font-size: 20px;
+}
+.input {
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-left: 15px;
+  height: 50px;
+  width: 260px;
+  outline: none;
+  border-radius: 5px;
+  border: 1.5px solid black;
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.que1 button:hover {
+  background-color: orange;
+  color: black;
+}
+.que2 button:hover {
+  background-color: orange;
+    color: black;
+}
+.que3 button:hover {
+  background-color: orange;
+    color: black;
+}
+.que4 button:hover {
+  background-color: orange;
+    color: black;
+}
+.h1 {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top:25%;
+  left: 55%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
